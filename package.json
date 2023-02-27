@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "hello-world": "./dist/index.js"
+    "start": "./dist/index.js"
   },
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "start": "start"
   },
   "author": "",
   "license": "ISC",
